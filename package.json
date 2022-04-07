@@ -1,0 +1,17 @@
+{
+  "name": "epost-archive",
+  "version": "0.0.1",
+  "description": "Archives all PDFs from ePost",
+  "main": "index.js",
+  "author": "Jeremy Wiebe",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "prettier": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.1",
+    "prettier-cli": "^0.1.0"
+  }
+}
