@@ -6,6 +6,9 @@
   "author": "Jeremy Wiebe",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "node": ">=16"
+  }
   "dependencies": {
     "node-fetch": "^3.2.3",
     "prettier": "^2.6.2"
